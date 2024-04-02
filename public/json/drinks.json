@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Coffee",
+      "ingredients": ["Coffee beans", "Water", "Milk (optional)"],
+      "description": "A hot beverage prepared from roasted coffee beans, ground and brewed with hot water."
+    },
+    {
+      "id": 2,
+      "name": "Orange Juice",
+      "ingredients": ["Oranges"],
+      "description": "A beverage made from the juice of oranges."
+    },
+    {
+      "id": 3,
+      "name": "Green Tea",
+      "ingredients": ["Green tea leaves", "Water"],
+      "description": "A type of tea made from unoxidized leaves from the Camellia sinensis plant."
+    },
+    {
+      "id": 4,
+      "name": "Hot Chocolate",
+      "ingredients": ["Cocoa powder", "Milk", "Sugar (optional)"],
+      "description": "A warm beverage made with chocolate, milk, and often a sweetener."
+    },
+    {
+      "id": 5,
+      "name": "Lemonade",
+      "ingredients": ["Lemons", "Water", "Sugar"],
+      "description": "A tart and refreshing beverage made from lemon juice, water, and sugar."
+    },
+    {
+      "id": 6,
+      "name": "Iced Tea",
+      "ingredients": ["Black tea leaves", "Water", "Sugar (optional)"],
+      "description": "Black tea brewed and served cold, often with sugar or other flavorings."
+    },
+    {
+      "id": 7,
+      "name": "Smoothie",
+      "ingredients": ["Fruits (e.g., berries, bananas)", "Yogurt", "Milk (optional)"],
+      "description": "A thick and blended beverage made from fruits, yogurt, and sometimes milk."
+    },
+    {
+      "id": 8,
+      "name": "Milkshake",
+      "ingredients": ["Ice cream", "Milk", "Flavoring syrups (optional)"],
+      "description": "A thick, cold beverage made by blending ice cream, milk, and sometimes flavorings."
+    },
+    {
+      "id": 9,
+      "name": "Soda",
+      "ingredients": ["Carbonated water", "Flavorings", "Sweeteners"],
+      "description": "A fizzy drink flavored with various syrups and often sweetened."
+    },
+    {
+      "id": 10,
+      "name": "Sports Drink",
+      "ingredients": ["Water", "Electrolytes", "Carbohydrates"],
+      "description": "A formulated beverage designed to replenish fluids and electrolytes lost during exercise."
+    },
+    {
+      "id": 11,
+      "name": "Energy Drink",
+      "ingredients": ["Carbonated water", "Caffeine", "Sugar", "Other additives"],
+      "description": "A beverage containing stimulants like caffeine, designed to increase energy levels."
+    },
+    {
+      "id": 12,
+      "name": "Fruit Punch",
+      "ingredients": ["Variety of fruits (juices or pureed)", "Sugar", "Water (optional)"],
+      "description": "A beverage made from a combination of fruit juices or purees, often sweetened."
+    },
+    {
+      "id": 13,
+      "name": "Herbal Tea",
+      "ingredients": ["Dried herbs or flowers", "Water"],
+      "description": "A beverage made by steeping dried herbs or flowers in hot water."
+    },
+    {
+      "id": 14,
+      "name": "Apple Cider",
+      "ingredients": ["Fermented apple juice"],
+      "description": "A non-alcoholic beverage made from fermented apple juice."
+    }
+  ]
+  
