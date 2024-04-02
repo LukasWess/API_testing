@@ -8,5 +8,6 @@ router.get('/', function(req, res, next) {
 
 /* POST */
 
+/* PUT */
 
 module.exports = router;
