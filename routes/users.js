@@ -10,6 +10,6 @@ router.get('/', function(req, res, next) {
 
 /* PUT */
 
-/* DELETE */
+/* DELETE  or maybe something else */
 
 module.exports = router;
